@@ -3,15 +3,25 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "db684bcf683cb70b07ac8412639cda1d",
-"assets/assets/fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
-"assets/assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
-"assets/FontManifest.json": "2a69ce04a1cd18341f63e2d3c53ed7ca",
+  "assets/AssetManifest.json": "65b1b56be9a2fe91543a39a1dd96e954",
+"assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
+"assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
+"assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
+"assets/assets/images/asia.jpg": "bbcf97c1be29e77360e8407b7e2eaa05",
+"assets/assets/images/australia.jpg": "6170e8a703652c6b814dca7020050086",
+"assets/assets/images/cover.jpg": "e1e4b2e46b8d6eabb7330afb0c0d30ff",
+"assets/assets/images/europe.jpg": "29a721b78efc7f928faf042c88806468",
+"assets/assets/images/google_logo.png": "b75aecaf9e70a9b1760497e33bcd6db1",
+"assets/assets/images/north_america.jpg": "867d729d34a03bf38136bd45954ec218",
+"assets/assets/images/photography.jpeg": "b0d14d6d4a94d33404a7df1344e7533b",
+"assets/assets/images/south_america.jpg": "1920c86e11a06921b339f00ff1d0ddea",
+"assets/assets/images/trekking.jpg": "283eae13ae9587874b93fed5c9b4a118",
+"assets/FontManifest.json": "daf1f817658c2d4328a27ae7e3af9150",
+"assets/fonts/Electrolize-Regular.ttf": "1be3e0aaeb2bbd1985615a49da7f2eaf",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "a316948f6045c1624732682e627eb446",
+"assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
+"assets/NOTICES": "535f95c41656ba800cc6f51bb40761a0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
-"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/shaders/ink_sparkle.frag": "c7fbd2549053c40ee18fab1f0b8d1d6b",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -23,11 +33,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c8b11ead311446e68599aa6fce7aff00",
-"/": "c8b11ead311446e68599aa6fce7aff00",
-"main.dart.js": "175628242b38b24cde9d262e1fedfa49",
-"manifest.json": "a9f53cd85ca18ece1764baece4635172",
-"version.json": "53ce68150597f80ad4317280c445998c"
+"index.html": "b40ffb9d74bc4c3b28ceb43e51e5d1ab",
+"/": "b40ffb9d74bc4c3b28ceb43e51e5d1ab",
+"main.dart.js": "1f7a6685f19171cd2c4461ed6965a0ba",
+"manifest.json": "5a4a5cc91717e15c7aebb22e51c56003",
+"version.json": "704ee28bcb2a08f4c4cbb09cb2fccb47"
 };
 
 // The application shell files that are downloaded before a service worker can
