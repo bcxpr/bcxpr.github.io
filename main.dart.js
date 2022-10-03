@@ -37365,7 +37365,7 @@ au(){var s=A.y4()
 this.d=s
 s.U(0,this.ga1c())
 this.aL()},
-I(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.z,i=[A.av(["name","Control Web","desc","Application for controlling the web","url","https://bcxpr.github.io/apps/ctrlweb/#!"],j,j),A.av(["name","WSS Protocol","desc","WS implementation for flutter Web","url","https://bcxpr.github.io/apps/wssprtcl/#!"],j,j),A.av(["name","Bemca POS","desc","Custom built POS System","url","https://bcxpr.github.io/apps/bemcapos/#!"],j,j),A.av(["name","Explore","desc","Main Site Theme","url","https://bcxpr.github.io/apps/explore/#!"],j,j),A.av(["name","Brainschild","desc","Brainschild","url","https://bcxpr.github.io/apps/brainschild/#!"],j,j),A.av(["name","Basics","desc","Basics","url","https://bcxpr.github.io/apps/basics/#!"],j,j)],h=J.ai4(6,t.a)
+I(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.z,i=[A.av(["name","Control Web","desc","Application for controlling the web","url","https://bcxpr.github.io/apps/ctrlweb/#!"],j,j),A.av(["name","WSS Protocol","desc","WS implementation for flutter Web","url","https://bcxpr.github.io/apps/wssprtcl/#!"],j,j),A.av(["name","Bemca POS","desc","Custom built POS System","url","https://bcxpr.github.io/apps/bemcapos/#!"],j,j),A.av(["name","Explore","desc","Main Site Theme","url","https://bcxpr.github.io/apps/explore/#!"],j,j),A.av(["name","BCXPR STORE","desc","BCXPR STORE","url","https://bcxpr.github.io/apps/brainschild/#!"],j,j),A.av(["name","Basics","desc","Basics","url","https://bcxpr.github.io/apps/basics/#!"],j,j)],h=J.ai4(6,t.a)
 for(s=t.N,r=0;r<6;++r){q=i[r]
 h[r]=A.av(["id",r,"url",q.h(0,"url"),"title",q.h(0,"name"),"subtitle",q.h(0,"desc"),"asset","images/"+r+".jpg"],s,j)}j=A.a(h.slice(0),A.ad(h))
 s=t.w
@@ -37377,7 +37377,7 @@ l.f=o<n?o/n:1
 if(a.K(s).f.a.a<800){s=A.a3(a).as.a
 s=A.ar(B.d.aH(255*l.f),s>>>16&255,s>>>8&255,s&255)
 o=t.p
-s=A.akJ(A.a([A.yL(A.hV(B.aN,A.a([A.uT(A.cT(50),A.b0(k,A.alL(u.I,B.ly),B.k,k,k,k,k,40,k,k,k,k,k,40)),A.b0(k,k,B.k,k,k,new A.dg(A.ar(B.d.aH(127.5),0,0,0),k,k,A.cT(50),k,k,B.au),k,40,k,k,k,k,k,40),A.b0(k,A.eQ(A.bh("MS",k,k,k,A.aV(k,k,A.ar(204,255,255,255),k,k,k,k,k,k,k,k,15,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),B.k,k,k,k,k,40,k,k,k,k,k,40)],o),B.aT),new A.adw(),k)],o),s,!0,0,A.bh("BCXPR",k,k,k,A.aV(k,k,B.aY,k,k,k,k,k,"Montserrat",k,k,20,k,k,B.t,k,k,!0,k,3,k,k,k,k,k,k),k,k))}else s=new A.qF(new A.ry(l.f,k),new A.P(p.a,1000),k)
+s=A.akJ(A.a([A.yL(A.hV(B.aN,A.a([A.uT(A.cT(50),A.b0(k,A.alL(u.I,B.ly),B.k,k,k,k,k,40,k,k,k,k,k,40)),A.b0(k,k,B.k,k,k,new A.dg(A.ar(B.d.aH(127.5),0,0,0),k,k,A.cT(50),k,k,B.au),k,40,k,k,k,k,k,40),A.b0(k,A.eQ(A.bh("MS",k,k,k,A.aV(k,k,A.ar(204,255,255,255),k,k,k,k,k,k,k,k,15,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),B.k,k,k,k,k,40,k,k,k,k,k,40)],o),B.aT),new A.adw(),k)],o),s,!0,0,A.bh("Brainschild",k,k,k,A.aV(k,k,B.aY,k,k,k,k,k,"Montserrat",k,k,20,k,k,B.t,k,k,!0,k,3,k,k,k,k,k,k),k,k))}else s=new A.qF(new A.ry(l.f,k),new A.P(p.a,1000),k)
 o=A.ar(B.d.aH(76.5),96,125,139)
 n=l.d
 n===$&&A.b()
@@ -37840,7 +37840,7 @@ ad(){return new A.Qn([!1,!1,!1,!1,!1,!1,!1,!1],B.l)}}
 A.Qn.prototype={
 I(a){var s,r,q,p,o,n,m,l=this,k=null,j=a.K(t.w).f.a.a,i=A.a3(a).as.a
 i=A.ar(B.d.aH(255*l.a.c),i>>>16&255,i>>>8&255,i&255)
-s=A.vB(A.bh("BCXPR",k,k,k,A.aV(k,k,B.aY,k,k,k,k,k,"Montserrat",k,k,20,k,k,B.t,k,k,!0,k,3,k,k,k,k,k,k),k,k),1)
+s=A.vB(A.bh("Brainschild",k,k,k,A.aV(k,k,B.aY,k,k,k,k,k,"Montserrat",k,k,20,k,k,B.t,k,k,!0,k,3,k,k,k,k,k,k),k,k),1)
 r=l.d
 q=A.bh("Discover",k,k,k,A.aV(k,k,r[0]?B.fz:B.j,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 p=A.bu(k,5,k)
