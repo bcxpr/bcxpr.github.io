@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "194506996471",
+    "project_id": "brainschildcreations",
+    "storage_bucket": "brainschildcreations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194506996471:android:e202c15147776ecd6bb1f2",
+        "android_client_info": {
+          "package_name": "com.brainschild.wssprtcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194506996471-mcs6imcq2eaiipe1310tgm376s0ski6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tFcuKPc6WQAQa7gzL2wcOS6ztlI-jOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194506996471-mcs6imcq2eaiipe1310tgm376s0ski6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194506996471-2anmpmt6kb9oo0tbld2p81hljs94l64d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcxprHome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194506996471:android:f4c2ec1eee0945f26bb1f2",
+        "android_client_info": {
+          "package_name": "com.example.bcxpr_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194506996471-mcs6imcq2eaiipe1310tgm376s0ski6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tFcuKPc6WQAQa7gzL2wcOS6ztlI-jOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194506996471-mcs6imcq2eaiipe1310tgm376s0ski6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194506996471-2anmpmt6kb9oo0tbld2p81hljs94l64d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcxprHome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
