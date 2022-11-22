@@ -34330,40 +34330,40 @@ aB(){var s=A.Z1()
 this.d=s
 s.a_(0,this.gTz())
 this.b_()},
-I(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f="Application for controlling the web",e="https://bcxpr.github.io/apps/ctrlweb/#!",d="WS implementation for flutter Web",c="https://bcxpr.github.io/apps/wssprtcl/#!",b="Custom built POS System",a="https://bcxpr.github.io/apps/bemcapos/#!",a0="https://bcxpr.github.io/apps/brainschild/#!",a1="https://bcxpr.github.io/apps/basics/#!",a2="https://bcxpr.github.io/apps/explore/#!",a3=null,a4=t.z,a5=[A.ay(["name","Control Web","desc",f,"url",e],a4,a4),A.ay(["name","WSS Protocol","desc",d,"url",c],a4,a4),A.ay(["name","Bemca POS","desc",b,"url",a],a4,a4),A.ay(["name","BCXPR STORE","desc","BCXPR STORE","url",a0],a4,a4),A.ay(["name","Basics","desc","Basics","url",a1],a4,a4),A.ay(["name","Explore","desc","Main Site Theme","url",a2],a4,a4),A.ay(["name","Control Web","desc",f,"url",e],a4,a4),A.ay(["name","WSS Protocol","desc",d,"url",c],a4,a4),A.ay(["name","Bemca POS","desc",b,"url",a],a4,a4),A.ay(["name","BCXPR STORE","desc","BCXPR STORE","url",a0],a4,a4),A.ay(["name","Basics","desc","Basics","url",a1],a4,a4),A.ay(["name","Explore","desc","Main Site Theme","url",a2],a4,a4)],a6=J.aar(12,t.a)
-for(s=t.N,r=0;r<12;++r){q=a5[r]
-a6[r]=A.ay(["id",r,"url",q.j(0,"url"),"title",q.j(0,"name"),"subtitle",q.j(0,"desc"),"asset","assets/images/"+r+".jpg"],s,a4)}a4=A.a(a6.slice(0),A.ae(a6))
+I(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f="Application for controlling the web",e="WS implementation for flutter Web",d="https://bcxpr.github.io/apps/wssprtcl/#!",c="Custom built POS System",b="https://bcxpr.github.io/apps/bemcapos/#!",a="https://bcxpr.github.io/apps/brainschild/#!",a0="https://bcxpr.github.io/apps/basics/#!",a1="https://bcxpr.github.io/apps/explore/#!",a2=null,a3=t.z,a4=[A.ay(["name","Control Web","desc",f,"url","https://bcxpr.github.io/apps/ctrlweb/#!"],a3,a3),A.ay(["name","WSS Protocol","desc",e,"url",d],a3,a3),A.ay(["name","Bemca POS","desc",c,"url",b],a3,a3),A.ay(["name","BCXPR STORE","desc","BCXPR STORE","url",a],a3,a3),A.ay(["name","Basics","desc","Basics","url",a0],a3,a3),A.ay(["name","Explore","desc","Main Site Theme","url",a1],a3,a3),A.ay(["name","Store","desc",f,"url","https://bcxpr.github.io/apps/store/#!"],a3,a3),A.ay(["name","WSS Protocol","desc",e,"url",d],a3,a3),A.ay(["name","Bemca POS","desc",c,"url",b],a3,a3),A.ay(["name","BCXPR STORE","desc","BCXPR STORE","url",a],a3,a3),A.ay(["name","Basics","desc","Basics","url",a0],a3,a3),A.ay(["name","Explore","desc","Main Site Theme","url",a1],a3,a3)],a5=J.aar(12,t.a)
+for(s=t.N,r=0;r<12;++r){q=a4[r]
+a5[r]=A.ay(["id",r,"url",q.j(0,"url"),"title",q.j(0,"name"),"subtitle",q.j(0,"desc"),"asset","assets/images/"+r+".jpg"],s,a3)}a3=A.a(a5.slice(0),A.ae(a5))
 s=t.w
-p=a7.N(s).f.a
-o=a7.N(s).f.a
+p=a6.N(s).f.a
+o=a6.N(s).f.a
 q=g.e
 n=o.b*0.4
 g.f=q<n?q/n:1
-if(a7.N(s).f.a.a<800){q=A.aF(a7).as.a
+if(a6.N(s).f.a.a<800){q=A.aF(a6).as.a
 q=A.au(B.d.aM(255*g.f),q>>>16&255,q>>>8&255,q&255)
 n=t.E
-m=A.afm(A.kq(B.aP,A.a([A.aa3(A.ie(50),A.cl(a3,A.adX(u.A,B.kx),B.m,a3,a3,a3,a3,40,a3,a3,a3,a3,a3,40)),A.cl(a3,a3,B.m,a3,a3,new A.de(A.au(B.d.aM(127.5),0,0,0),a3,a3,A.ie(50),a3,a3,B.Y),a3,40,a3,a3,a3,a3,a3,40),A.cl(a3,A.l4(A.hK("MS",A.dp(a3,a3,A.au(204,255,255,255),a3,a3,a3,a3,a3,a3,a3,a3,15,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3,a3),a3,a3),B.m,a3,a3,a3,a3,40,a3,a3,a3,a3,a3,40)],n),B.b1),new A.a6A(g))
+m=A.afm(A.kq(B.aP,A.a([A.aa3(A.ie(50),A.cl(a2,A.adX(u.A,B.kx),B.m,a2,a2,a2,a2,40,a2,a2,a2,a2,a2,40)),A.cl(a2,a2,B.m,a2,a2,new A.de(A.au(B.d.aM(127.5),0,0,0),a2,a2,A.ie(50),a2,a2,B.Y),a2,40,a2,a2,a2,a2,a2,40),A.cl(a2,A.l4(A.hK("MS",A.dp(a2,a2,A.au(204,255,255,255),a2,a2,a2,a2,a2,a2,a2,a2,15,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2),a2,a2),B.m,a2,a2,a2,a2,40,a2,a2,a2,a2,a2,40)],n),B.b1),new A.a6A(g))
 l=g.x
-k=l===40?B.Ad:A.cl(a3,a3,B.m,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3)
-n=A.a([m,A.acU(new A.tP(new A.a6B(g),k,a3),a3,B.eT,B.vx,B.by,l,B.ab,l)],n)
-l=A.hK("brainschild",A.dp(a3,a3,B.eO,a3,a3,a3,a3,a3,"Montserrat",a3,a3,20,a3,a3,B.q,a3,a3,!0,a3,3,a3,a3,a3,a3,a3,a3),a3,a3)
-q=new A.qK(l,n,0,q,!0,new A.xt(a3,a3,1/0,56),a3)}else q=new A.ux(new A.w0(g.f,a3),new A.U(o.a,1000),a3)
+k=l===40?B.Ad:A.cl(a2,a2,B.m,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2)
+n=A.a([m,A.acU(new A.tP(new A.a6B(g),k,a2),a2,B.eT,B.vx,B.by,l,B.ab,l)],n)
+l=A.hK("brainschild",A.dp(a2,a2,B.eO,a2,a2,a2,a2,a2,"Montserrat",a2,a2,20,a2,a2,B.q,a2,a2,!0,a2,3,a2,a2,a2,a2,a2,a2),a2,a2)
+q=new A.qK(l,n,0,q,!0,new A.xt(a2,a2,1/0,56),a2)}else q=new A.ux(new A.w0(g.f,a2),new A.U(o.a,1000),a2)
 n=A.au(B.d.aM(76.5),96,125,139)
 m=g.d
 m===$&&A.c()
 l=g.w
-k=A.rP(A.l4(A.hK("Free Delivery for goods about 4000/= KES",A.dp(a3,a3,B.eK,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),a3,a3),a3,a3),1)
-if(a7.N(s).f.a.a<800)j="S"
-else j=A.aeY(a7)?"M":"L"
-j=A.hK(j,B.Jb,a3,a3)
+k=A.rP(A.l4(A.hK("Free Delivery for goods about 4000/= KES",A.dp(a2,a2,B.eK,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2),a2,a2),1)
+if(a6.N(s).f.a.a<800)j="S"
+else j=A.aeY(a6)?"M":"L"
+j=A.hK(j,B.Jb,a2,a2)
 i=g.w
 h=t.E
-l=A.acU(A.oA(A.a([k,new A.dZ(B.lE,j,a3),A.oA(A.a([A.l4(A.ly(!1,!0,A.cl(a3,B.Ae,B.m,a3,a3,new A.de(B.ll,a3,a3,B.vm,a3,a3,B.Y),a3,i/2,a3,a3,a3,a3,a3,i/1.5),a3,!0,a3,a3,a3,a3,a3,a3,a3,a3,a3,new A.a6C(g),a3,a3,a3,a3),a3,a3)],h),B.aA,B.aZ,B.aF)],h),B.aA,B.E_,B.aF),B.Er,B.eT,a3,B.by,l/2,a3,1/0)
-if(a7.N(s).f.a.a<800)s=260
-else s=A.aeY(a7)?290:225
-a4=A.a([new A.FI(B.aV,new A.FF(new A.a0y(s,8,8,1.5),new A.a0u(new A.a6D(a4),12),a3),a3),new A.FH(new A.a0w(A.a([new A.n8(B.j,p,a3),new A.n8(B.r5,p,a3),new A.n8(B.Es,p,a3)],h),A.ay([null,0],t.st,t.S)),a3)],h)
+l=A.acU(A.oA(A.a([k,new A.dZ(B.lE,j,a2),A.oA(A.a([A.l4(A.ly(!1,!0,A.cl(a2,B.Ae,B.m,a2,a2,new A.de(B.ll,a2,a2,B.vm,a2,a2,B.Y),a2,i/2,a2,a2,a2,a2,a2,i/1.5),a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,new A.a6C(g),a2,a2,a2,a2),a2,a2)],h),B.aA,B.aZ,B.aF)],h),B.aA,B.E_,B.aF),B.Er,B.eT,a2,B.by,l/2,a2,1/0)
+if(a6.N(s).f.a.a<800)s=260
+else s=A.aeY(a6)?290:225
+a3=A.a([new A.FI(B.aV,new A.FF(new A.a0y(s,8,8,1.5),new A.a0u(new A.a6D(a3),12),a2),a2),new A.FH(new A.a0w(A.a([new A.n8(B.j,p,a2),new A.n8(B.r5,p,a2),new A.n8(B.Es,p,a2)],h),A.ay([null,0],t.st,t.S)),a2)],h)
 s=B.v5
-return new A.oB(q,new A.wb(A.Aq(A.a([l,A.rP(new A.AE(a4,B.bp,!1,a3,a3,s,a3,!0,a3,0,a3,a3,B.aq,B.Fq,a3,B.ah,a3),1)],h),B.aA,B.aZ,B.aF),m,0.3,10,B.bF,n,a3),B.zS,a3,a3)}}
+return new A.oB(q,new A.wb(A.Aq(A.a([l,A.rP(new A.AE(a3,B.bp,!1,a2,a2,s,a2,!0,a2,0,a2,a2,B.aq,B.Fq,a2,B.ah,a2),1)],h),B.aA,B.aZ,B.aF),m,0.3,10,B.bF,n,a2),B.zS,a2,a2)}}
 A.a6v.prototype={
 $0(){var s=this.a,r=s.d
 r===$&&A.c()
